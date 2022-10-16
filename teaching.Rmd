@@ -1,0 +1,25 @@
+---
+author: Cecilia Noecker
+description: Teaching and outreach materials and resources
+title: Teaching and Outreach Materials
+---
+
+For a full description of my teaching experience, see my [CV](/cv_2022.pdf).
+
+## Bioinformatics workshop materials
+
+I am a certified Software and Data Carpentry workshop instructor, and I have developed and taught several workshops on computing and bioinformatics for diverse learners. Materials for some are linked below:
+
+- [A microbiome-focused adaptation](https://cnoecker.github.io/R-microbiome-workshop/) of the Data Carpentry R for Ecologists lesson, using 16S rRNA amplicon sequence variant data as the main analysis example
+
+- [Slides from a workshop on version control and organizing computational projects](https://cnoecker.github.io/R-microbiome-workshop/overviewPresOrgTools.html#/) for biologists
+
+- [Workshop materials on integrative analysis of metagenomic and metabolomic data](https://cnoecker.github.io/MultiOmicsTutorial/) for first-year biomedical graduate students
+
+- [Slides for hands-on quiz sections](https://cnoecker.github.io/genome373/slides) from an intro-level graduate bioinformatics class
+
+## Microbiome teaching resources
+
+I contributed to the development of a lesson plan on microbial ecology and the human gut microbiome for high school students. The lesson plan, created by the [UW Genome Sciences Education and Outreach office](https://gsoutreach.gs.washington.edu/) meets NGSS standards and is partly based on a public talk I gave through the Pacific Science Center Teen Science Cafe program. The materials also include a video interview with me about science-related careers and why the gut microbiome is awesome!
+
+- **Lesson plan:** https://nihsepa.org/resource/the-microbiome-food-fiber-and-fitness/

@@ -1,0 +1,27 @@
+---
+author: Cecilia Noecker
+description: Software
+title: Software
+---
+
+You can find these tools and contributions to other computational projects on [GitHub](www.github.com/cnoecker). 
+
+## MIMOSA2
+
+**[Manual](https://borenstein-lab.github.io/MIMOSA2shiny/)**
+
+**[Paper](https://academic.oup.com/bioinformatics/article/38/6/1615/6499258)**
+
+My Ph.D. dissertation focused on developing frameworks to address the following question: **If metabolites vary in abundance between different microbiomes (e.g. between the gut microbiota of different human subjects), can we attribute those differences to the activity of specific microbial community members and pathways?** This work culminated in MIMOSA2: an R package and web application for integrative interpretation of paired microbiome and metabolomics data.
+
+## BURRITO
+
+**[Manual](https://borenstein-lab.github.io/burrito/)**
+
+**[Paper](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00365/full)**
+
+Together with colleagues Alex Eng and Colin McNally, I designed and created a tool to facilitate exploratory data visualization of the unique structure of microbiome (metagenomic) datasets: multidimensional but closely linked taxonomic and functional abundance profiles. BURRITO is implemented as a d3.js web application and can visualize amplicon or metagenomic data in a variety of common formats.
+
+<!-- ## Other -->
+
+<!-- You can find contributions to various other microbiome-related software projects at the [Borenstein lab GitHub](https://www.github.com/borenstein-lab), [Turnbaugh lab GitHub](https://www.github.com/turnbaugh-lab), and my [personal GitHub](https://www.github.com/cnoecker). -->
