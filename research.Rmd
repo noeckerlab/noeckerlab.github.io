@@ -8,7 +8,7 @@ title: Research
 
 ## Metabolic strategies of human gut bacteria
 
-<img alt = 'Differentially abundant metabolite features in E. lenta supernatant' width='40%' src='/images/fig1_metabolome.jpg' align='left'/>
+<img alt = 'Differentially abundant metabolite features in E. lenta supernatant' width='40%' src='/images/fig1_metabolome.jpg' align='left' style='margin:0px 20px 10px 0px'/>
 
 Human gut bacteria perform diverse metabolic functions with consequences for host health. The prevalent and disease-linked Actinobacterium *Eggerthella lenta* performs several unusual chemical transformations, but it does not metabolize sugars and its nutrient niche remains unclear. We combined traditional culture experiments with metabolomics and genome-scale metabolic modeling to identify key growth pathways for this species, with implications for host immunity and pharmacology. 
 
@@ -16,11 +16,11 @@ Human gut bacteria perform diverse metabolic functions with consequences for hos
 </div>
 
 
-<div style= "float:left;position: relative;padding: 0px 0px 10px 0px">
+<div style= "float:left;position: relative">
 
 ## Strain variation and genome evolution in low-abundance gut microbes
 
-<img alt = 'E. lenta colonies isolated from a healthy subject' width='28%' src='/images/ElentaColonies.jpeg' align='left' style='margin:0px 20px 0px 0px'/>
+<img alt = 'E. lenta colonies isolated from a healthy subject' width='28%' src='/images/ElentaColonies.jpeg' align='left' style='margin:0px 20px 10px 0px'/>
 
 Using metagenomics, microbiome researchers have uncovered extensive strain variation among the diverse microbial species that colonize humans. However, the genome diversity of many low-abundance microbes is still relatively unknown, even though they may associate closely with their hosts and play outsize roles in host physiology and disease. We are applying a novel selective isolation workflow to analyze *Eggerthella* genomes across healthy humans and to link genome variation with host immune traits.
 <br>
