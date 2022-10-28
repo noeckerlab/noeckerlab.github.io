@@ -16,7 +16,7 @@ I am a certified Software and Data Carpentry workshop instructor, and I have dev
 
 - [Workshop materials on integrative analysis of metagenomic and metabolomic data](https://cnoecker.github.io/MultiOmicsTutorial/) for first-year biomedical graduate students
 
-- [Slides for hands-on quiz sections](https://cnoecker.github.io/genome373/slides) from an intro-level graduate bioinformatics class
+- [Slides for hands-on quiz sections](https://cnoecker.github.io/genome373/slides) from an undergraduate bioinformatics class
 
 ## Microbiome teaching resources
 
