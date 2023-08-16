@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on Cecilia Noecker, PhD</title>
+    <title>Welcome on The Noecker Lab</title>
     <link>https://cnoecker.github.io/</link>
-    <description>Recent content in About me on Cecilia Noecker, PhD</description>
+    <description>Recent content in Welcome on The Noecker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://cnoecker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join the lab!</title>
+      <link>https://cnoecker.github.io/join_the_lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnoecker.github.io/join_the_lab/</guid>
+      
+        <description>Join the lab</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Culture and Expectations</title>
+      <link>https://cnoecker.github.io/lab_culture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnoecker.github.io/lab_culture/</guid>
+      
+        <description>Lab Culture</description>
+      
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://cnoecker.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnoecker.github.io/people/</guid>
+      
+        <description>Lab members</description>
+      
+    </item>
+    
     <item>
       <title>Publications</title>
       <link>https://cnoecker.github.io/publications/</link>
@@ -25,6 +58,17 @@
       <guid>https://cnoecker.github.io/research/</guid>
       
         <description>Current research projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://cnoecker.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cnoecker.github.io/resources/</guid>
+      
+        <description>Resources</description>
       
     </item>
     

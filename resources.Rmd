@@ -1,0 +1,27 @@
+---
+description: Resources
+title: Resources
+---
+
+This page will be updated soon with resources that may be helpful for lab members. 
+
+<!-- 
+### Relevant papers
+
+We have a public Zotero collection of research papers related to our lab with some annotations [at this link](link)
+
+### Getting started with computing and bioinformatics
+
+- Data Carpentry [R for Ecologists](link) : a great intro to data manipulation and visualization with R and the tidyverse
+- Software Carpentry [The Unix Shell](link): intro to interacting with files and software via the command line
+- Some slides on metagenomics analysis
+- Guide to amplicon sequencing
+- Introduction to nanopore sequencing
+The [Carpentries](carpentriesLink) lessons are a great starting point for gettin
+
+### Wet lab protocols
+Lab protocols 
+
+### DEI and improving the practice of science
+-->
+

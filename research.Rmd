@@ -1,50 +1,39 @@
 ---
-author: Cecilia Noecker
 description: Current research projects
 title: Research
 ---
 
-<div style= "float:left;position: relative">
+<div style= "float:left;position:relative">
+Most life on Earth is microbial. Animals depend on complex ecosystems of microbes that live in and on us: microbiomes. The dense and diverse microbiome found in our gut plays essential roles in digestion, immunity, and many other aspects of vertebrate physiology. We are interested in developing a more detailed description of the roles of the individual members of this ecosystem and how they vary across host species, lifestyle, and health and disease. 
+
+Our research projects use both computational and experimental tools and approaches to varying degrees. 
+</div>
+<div style= "float:left;position:relative">
+
+## Comparative genomics of human and animal gut microbes
+
+<img alt = 'Tree of Eggerthellaceae isolates and hosts' width='25%' src='/images/host_tree_mod.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
+
+How do the resident microbes in your gut differ from their relatives living in the gut of your dog? Or from someone halfway across the world? How did their unique genetic and metabolic capacities evolve? What effects might they have on the physiology and ecology of the gut? We use computational genomics and experimental characterization of new isolates to explore these questions, with a focus on the prevalent and metabolically diverse bacterial family *Eggerthellaceae*.
+
+</div>
+
+<div style= "float:left;position:relative">
 
 ## Metabolic strategies of human gut bacteria
 
-<img alt = 'Differentially abundant metabolite features in E. lenta supernatant' width='40%' src='/images/fig1_metabolome.jpg' align='left' style='margin:0px 20px 10px 0px'/>
+<img alt = 'Schematic of Flux Balance Analysis' width='45%' src='/images/fba_schematic2.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
 
-Human gut bacteria perform diverse metabolic functions with consequences for host health. The prevalent and disease-linked Actinobacterium *Eggerthella lenta* performs several unusual chemical transformations, but it does not metabolize sugars and its nutrient niche remains unclear. We combined traditional culture experiments with metabolomics and genome-scale metabolic modeling to identify key growth pathways for this species, with implications for host immunity and pharmacology. 
-
-**Check out our preprint!** ["Systems biology illuminates alternative metabolic niches in the human gut microbiome"](https://www.biorxiv.org/content/10.1101/2022.09.19.508335v1.full) 
-</div>
-
-
-<div style= "float:left;position: relative">
-
-## Strain variation and genome evolution in low-abundance gut microbes
-
-<img alt = 'E. lenta colonies isolated from a healthy subject' width='28%' src='/images/ElentaColonies.jpeg' align='left' style='margin:0px 20px 10px 0px'/>
-
-Using metagenomics, microbiome researchers have uncovered extensive strain variation among the diverse microbial species that colonize humans. However, the genome diversity of many low-abundance microbes is still relatively unknown, even though they may associate closely with their hosts and play outsize roles in host physiology and disease. We are applying a novel selective isolation workflow to analyze *Eggerthella* genomes across healthy humans and to link genome variation with host immune traits.
-<br>
+The most abundant microbes in your gut break down dietary fibers into smaller compounds called short-chain fatty acids. However, other gut microbes may rely on protein, lipids, or other nutrients from the diet or provided by the host. How do these nutrients support the growth of these microbes? Can we use computational modeling to analyze their growth and predict their interactions with other community members? 
 
 </div>
 
+<div style= "float:left;position:relative">
 
-<div style= "float:right;position: relative;padding: 0px 0px 10px 0px">
+## Meta-omics data analysis
 
-## Computational tools for modeling microbiomes and metabolomes
+<img alt = 'Differentially abundant microbial amplicons in lab mice with a behavioral gene mutation, from Buffington Cell 2021' width='30%' src='/images/fig_buffington.jpg' align='left' style='margin:0px 20px 10px 0px' border='1px' padding='5px'/>
 
-<img alt = 'MIMOSA2 analysis of gut microbiota and metabolites in inflammatory bowel disease' width='50%' src='/images/figure6_ibd.jpg' / align='right'>
-
-In my PhD research, I developed and applied conceptual frameworks and [software](software.html) for interpreting microbiome and metabolomics data in the context of existing genomic and biochemical reference knowledge. You can find a talk I gave on this work for the 2020 Intelligent Systems for Molecular Biology meeting [here](https://www.youtube.com/watch?v=V95jx21RYl8). 
+We enjoy collaborating with other researchers on experimental design, data processing, statistical analysis and/or visualization of microbiome -omics data. Past projects have explored interactions between host genetics and the microbiome, microbiome sharing between humans and animals, novel microbial diversity in wild animals, and other topics, using 16S rRNA amplicon sequencing, metagenomics, and metabolomics. If you have a collaboration idea, please feel free to [get in touch](mailto:cecilia.noecker@mnsu.edu).
 
 </div>
-
-## Data processing, statistical analysis, and visualization for microbiome studies
-
-I enjoy contributing to microbiome studies as a computational collaborator in the areas of experimental design, data processing, statistical analysis and/or visualization of microbiome -omics data. Past projects have addressed varied questions about microbial communities including, among others: 
-
-- what novel microbial (metagenomic) diversity exists in wild *Peromyscus* mice that habitually eat toxic monarch butterflies (in preparation)
-
-- what microbial strains are linked to host genetics and behavior in lab mice ([Buffington, Dooling et al 2021](https://www.sciencedirect.com/science/article/pii/S0092867421001598))
-
-- whether and which microbes are shared between humans, livestock and the built environment in Kenyan villages ([Mosites et al 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171017))
-

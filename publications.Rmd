@@ -1,7 +1,8 @@
 ---
-author: Cecilia Noecker
 description: Publication list
 title: Publications
 ---
 
-You can find a full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=Wba93SoAAAAJ&hl=en). Please send me an email (click the envelope in the left panel) if you would like a pdf copy of any articles that are not freely available.
+<img alt = 'PLOS Biology cover art of E. lenta metabolism' width='28%' src='/images/CN_Cover_Square.jpg' align='left' style='margin:0px 20px 10px 0px'/>
+
+You can find a full list of our publications on [Google Scholar](https://scholar.google.com/citations?user=Wba93SoAAAAJ&hl=en). Please feel free to send Dr. Noecker an email (click the envelope in the left panel) if you would like a pdf copy of any articles that are not freely available.
