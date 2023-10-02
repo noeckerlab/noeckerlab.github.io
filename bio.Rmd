@@ -1,0 +1,11 @@
+---
+description: Bio of Dr. Noecker
+title: Dr. Cecilia Noecker
+---
+
+I am a microbiome scientist interested in the ecological interactions and metabolic diversity of mammalian gut microbes. I use experimental and computational tools in microbiology, genomics, metabolomics, and systems biology. I am also interested in educational strategies to improve equity in computational biology. You can find a copy of my CV [here](../cv_2023.pdf).
+
+Before coming to Mankato, I worked and studied at St. Olaf College (biology and statistics); the National Institute of Public Health in Cuernavaca, Mexico (viral epidemiology, advised by Dr. Jose Ramos-Castaneda); University of Washington (genome sciences and data science, advised by Dr. Elhanan Borenstein); and University of California San Francisco (microbiome science, advised by Dr. Peter Turnbaugh). 
+
+Outside of science, I enjoy cooking, running, reading, and quality time with family and friends.
+

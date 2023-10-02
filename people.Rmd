@@ -5,19 +5,35 @@ title: People
 
 <!-- <div style= "float:left;position: relative"> -->
 
-## Dr. Cecilia Noecker
+
+
+**Dr. Cecilia Noecker**
 (rhymes with Baker)
-<img alt = 'Dr. Noecker' width='15%' src='/images/headshot3a.jpg' align='left' style='margin:0px 20px 10px 0px'/>
+<img alt = 'Dr. Noecker' width='10%' src='/images/headshot3a.jpg' align='left' style='margin:0px 20px 10px 0px'/>
 
 Pronouns: she/her
 
-I am a microbiome scientist interested in the ecological interactions and metabolic diversity of mammalian gut microbes. I use experimental and computational tools in microbiology, genomics, metabolomics, and systems biology. I am also interested in educational strategies to improve equity in computational biology. You can find a copy of my CV [here](../cv_2023.pdf).
+[Find a bio of Dr. Noecker here](../bio)
 
-Before coming to Mankato, I worked and studied at St. Olaf College (biology and statistics); the National Institute of Public Health in Cuernavaca, Mexico (viral epidemiology); University of Washington (genome sciences and data science); and University of California San Francisco (microbiome science). 
+### Students, Fall 2023
 
-Outside of science, I enjoy cooking, running, reading, and quality time with family and friends.
+**Jackson Hauge**
+
+- B.S. Biomedical Sciences
+- Project: Evolution of novel transcription factor gene families in gut Actinobacteria
+
+**Gionna Parsa**
+
+- B.S. Biomedical Sciences
+- Project: Distribution of antibiotic resistance in human gut Actinobacteria
+
+**Kendall Solomon**
+
+- B.S. Biotechnology
+- Project: Metabolic diversity and strain variation in genus *Slackia*
 
 ## [Join Us!](../join_the_lab)
+
 <!-- </div> -->
 
 

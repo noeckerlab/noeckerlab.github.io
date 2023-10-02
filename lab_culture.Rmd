@@ -6,7 +6,7 @@ title: Lab Culture and Expectations
 A lab is a shared ecosystem! Lab members agree to the following ground rules: 
 
 1. Treat your colleagues and community with the highest level of respect for their identities and lived experiences. This expectation also includes respecting yourself and taking care of your own mental and physical health.
-2. Communicate: keep an open and prompt line of communication with Dr. Noecker about your research progress and your other considerations, any issues or concerns you have, lab logistics, unexpected events, etc.
+2. Communicate: keep an open and prompt line of communication with Dr. Noecker about your research progress and your other considerations, any issues or concerns you have, lab logistics, unexpected events, etc. Respond to lab-related emails and Microsoft Teams messages within 24 hours during the semester.
 3. Participate in lab activities as appropriate for your role: attend lab meetings, ask questions, give constructive feedback, help your colleagues, contribute to shared efforts in the lab.
 4. Pay attention and act responsibly: We work with microbes and samples that can present moderate biosafety hazards. We also work with (potentially expensive) shared equipment and resources. Act accordingly!
 5. Keep a record: We use Microsoft OneNote as an experimental and computational lab notebook. It's OK if your notes aren't perfect all the time, but others (and your future self) should be able to make sense of the work you've done.
