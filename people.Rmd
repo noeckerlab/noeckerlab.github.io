@@ -15,13 +15,15 @@ Pronouns: she/her
 
 [Find a bio of Dr. Noecker here](../bio)
 
-### Students, Fall 2023
+### Students, Spring 2024
 
-**Jackson Hauge**
+- Cyrille Date, B.S. Microbiology
+- David Okanta, B.S. Biomedical Sciences (RAP-Global Intern)
+- Gionna Parsa, B.S. Biomedical Sciences
+- Kendall Solomon, B.S. Biotechnology
+- Hope Turner, B.S. Biology
 
-- B.S. Biomedical Sciences
-- Project: Evolution of novel transcription factor gene families in gut Actinobacteria
-
+<!--
 **Gionna Parsa**
 
 - B.S. Biomedical Sciences
@@ -32,8 +34,29 @@ Pronouns: she/her
 - B.S. Biotechnology
 - Project: Metabolic diversity and strain variation in genus *Slackia*
 
+**Cyrille Date**
+
+- B.S. Microbiology
+- Project: Evolution of novel transcription factor gene families in gut Actinobacteria
+
+**Hope Turner**
+
+- B.S. Biology
+- Project: Effect of microplastics on soil microbial communities (Collaboration with Dr. Mriganka De)
+
+**David Okanta**
+
+- RAP-Global Research Intern
+- Project: Metabolic adaptations of mammalian gut Actinobacteria
+
+-->
+
+
+
 ## [Join Us!](../join_the_lab)
 
+### Former Students
+- Jackson Hauge, B.S. Biomedical Sciences
 <!-- </div> -->
 
 
