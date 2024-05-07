@@ -12,7 +12,7 @@ Our research projects use both computational and experimental tools and approach
 
 ## Comparative genomics of human and animal gut microbes
 
-<img alt = 'Tree of Eggerthellaceae isolates and hosts' width='25%' src='/images/host_tree_mod.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
+<img alt = 'Tree of Eggerthellaceae isolates and hosts' width='320' src='/images/host_tree_mod.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
 
 How do the resident microbes in your gut differ from their relatives living in the gut of your dog? Or from someone halfway across the world? How did their unique genetic and metabolic capacities evolve? What effects might they have on the physiology and ecology of the gut? We use computational genomics and experimental characterization of new isolates to explore these questions, with a focus on the prevalent and metabolically diverse bacterial family *Eggerthellaceae*.
 
@@ -22,7 +22,7 @@ How do the resident microbes in your gut differ from their relatives living in t
 
 ## Metabolic strategies of human gut bacteria
 
-<img alt = 'Schematic of Flux Balance Analysis' width='45%' src='/images/fba_schematic2.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
+<img alt = 'Schematic of Flux Balance Analysis' width='500' src='/images/fba_schematic2.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
 
 The most abundant microbes in your gut break down dietary fibers into smaller compounds called short-chain fatty acids. However, other gut microbes may rely on protein, lipids, or other nutrients from the diet or provided by the host. How do these nutrients support the growth of these microbes? Can we use computational modeling to analyze their growth and predict their interactions with other community members? 
 
@@ -30,10 +30,10 @@ The most abundant microbes in your gut break down dietary fibers into smaller co
 
 <div style= "float:left;position:relative">
 
-## Meta-omics data analysis
+## Meta-omic microbiome analysis
 
-<img alt = 'Differentially abundant microbial amplicons in lab mice with a behavioral gene mutation, from Buffington Cell 2021' width='30%' src='/images/fig_buffington.jpg' align='left' style='margin:0px 20px 10px 0px' border='1px' padding='5px'/>
+<img alt = 'Differentially abundant microbial amplicons in lab mice with a behavioral gene mutation, from Buffington Cell 2021' width='350' src='/images/fig_buffington.jpg' align='left' style='margin:0px 20px 10px 0px' border='1px' padding='5px'/>
 
-We enjoy collaborating with other researchers on experimental design, data processing, statistical analysis and/or visualization of microbiome -omics data. Past projects have explored interactions between host genetics and the microbiome, microbiome sharing between humans and animals, novel microbial diversity in wild animals, and other topics, using 16S rRNA amplicon sequencing, metagenomics, and metabolomics. If you have a collaboration idea, please feel free to [get in touch](mailto:cecilia.noecker@mnsu.edu).
+We enjoy collaborating with other researchers on experimental design, methodology, data processing, statistical analysis and/or data visualization for microbiome studies. Past projects have explored interactions between host genetics and the microbiome, microbiome sharing between humans and animals, novel microbial diversity in wild animals, and other topics, using 16S rRNA amplicon sequencing, metagenomics, and metabolomics. If you have a collaboration idea, please feel free to [get in touch](mailto:cecilia.noecker@mnsu.edu).
 
 </div>
