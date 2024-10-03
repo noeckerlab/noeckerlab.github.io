@@ -9,13 +9,17 @@ title: People
 <img alt = 'Students at the Undergraduate research symposium' width='58%' src='/images/URS2024_crop.jpg'  style='margin:0px 20px 10px 0px' border='1px'/>
 
 </div>
+<br>
 
 **Dr. Cecilia Noecker**
 (rhymes with Baker)
 <img alt = 'Dr. Noecker' width='10%' src='/images/headshot3a.jpg' align='left' style='margin:0px 20px 10px 0px'/>
+
 Pronouns: she/her
 
 [Find a bio of Dr. Noecker here](../bio)
+
+<br>
 
 ## Lab members (Fall 2024)
 
