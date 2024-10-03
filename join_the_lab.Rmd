@@ -15,7 +15,6 @@ If you are interested, please read about our [project areas](../research) and **
 ### **Prospective M.S. Biological Sciences students:**
 Prospective M.S. students are encouraged to contact Dr. Noecker and to apply for admission to the Minnesota State Mankato [Biological Sciences M.S.](https://grad.mnsu.edu/all-graduate-programs/biology-master-of-science/) If you are interested, send an email to Dr. Noecker with your resume or C.V. and a few sentences on your educational background and why you are interested in our lab specifically. See also this [helpful guide](https://sites.google.com/view/apply-academic-positions/graduate-student) created by Dr. Lily Khadempour about how to contact a prospective graduate advisor. 
 
-Note: Currently we are unlikely to have space for additional M.S. students for Fall 2024. You are still welcome to send a C.V. to Dr. Noecker to discuss possible options.
 
 ### **M.S. Data Science students:**
 We may have opportunities for Data Science students to work on a co-advised thesis project or alternative plan paper in bioinformatics/computational biology. Ideally, you should have taken or plan to take at least two statistics courses and have a little bit of background or interest in microbiology. Please read over our [project areas](../research) and [expectations](../lab_culture) and send Dr. Noecker an email if you are interested. 

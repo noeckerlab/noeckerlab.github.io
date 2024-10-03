@@ -5,23 +5,27 @@ title: People
 
 <!-- <div style= "float:left;position: relative"> -->
 
+<div style="text-align:center;position:center">
+<img alt = 'Students at the Undergraduate research symposium' width='58%' src='/images/URS2024_crop.jpg'  style='margin:0px 20px 10px 0px' border='1px'/>
 
+</div>
 
 **Dr. Cecilia Noecker**
 (rhymes with Baker)
 <img alt = 'Dr. Noecker' width='10%' src='/images/headshot3a.jpg' align='left' style='margin:0px 20px 10px 0px'/>
-
 Pronouns: she/her
 
 [Find a bio of Dr. Noecker here](../bio)
 
-### Students, Spring 2024
+## Lab members (Fall 2024)
 
-- Cyrille Date, B.S. Microbiology
-- David Okanta, B.S. Biomedical Sciences (RAP-Global Intern)
-- Gionna Parsa, B.S. Biomedical Sciences
-- Kendall Solomon, B.S. Biotechnology
-- Hope Turner, B.S. Biology
+#### Maxwell Awuah, M.S. Biological Sciences
+#### Fadima Daramy, B.S. Biomedical Sciences
+#### Cyrille Date, B.S. Microbiology
+#### Abrham Eshete, B.S. Biomedical Sciences
+#### Faiza Hirsi, B.S. Biotechnology
+#### Keyur Kamacharya, B.S. Biochemistry
+#### Nitee Rai, B.S. Biotechnology
 
 <!--
 **Gionna Parsa**
@@ -53,10 +57,15 @@ Pronouns: she/her
 
 
 
-## Interested in joining? [Click here!](../join_the_lab)
+## Interested in joining? [Click here](../join_the_lab)
 
 ### Former Students
 - Jackson Hauge, B.S. Biomedical Sciences
+- David Okanta, B.S. Biomedical Sciences (RAP-Global Intern)
+- Gionna Parsa, B.S. Biomedical Sciences
+- Kendall Solomon, B.S. Biotechnology
+- Hope Turner, B.S. Biology
+
 <!-- </div> -->
 
 

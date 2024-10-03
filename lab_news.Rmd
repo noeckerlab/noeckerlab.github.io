@@ -3,7 +3,11 @@ description: Lab News
 title: Lab News
 ---
 
-<!-- **May 2024:** Dr. Noecker published a Perspective article with her postdoc adviser Peter Turnbaugh, on tools for studying metabolism in the gut microbiome:  -->
+**Summer 2024 updates:** 
+
+- Our Coy is set up! Lots of happy anaerobic culturing ahead. 
+- A new review article out with Dr. Peter Turnbaugh in Nature Metabolism, on tools for studying metabolism in the gut microbiome. Read more here: http://rdcu.be/dMBZ0
+- Dr. Noecker presented about our research at the Beneficial Microbes meeting in Madison, Wisconsin
 
 **April 2024:** We had a busy spring: 
 
@@ -12,13 +16,11 @@ title: Lab News
 - Kendall defended her Honors portfolio!
 - Gionna, Kendall, and Hope graduated!
 
-<img alt = 'Students at the Undergraduate research symposium' width='300' align='left' src='/images/URS2024.jpg'  style='margin:0px 20px 10px 0px' border='1px'/>
-
 <img alt = 'Students with posters at the Undergraduate research symposium' width='300' src='/images/kendallCyrilleURS.jpg' style='margin:0px 20px 10px 0px' border='1px'/>
 
 **November 2023:** Our first lab meeting was a success!  
 
-<img alt = 'Students at lab meeting' width='300' src='/images/labMeeting1.jpg' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
+<img alt = 'Students at lab meeting' width='300' src='/images/labMeeting1.jpg'  style='margin:0px 20px 10px 0px' border='1px'/>
 
 **October 2023:** Dr. Noecker presented about our research at the [ISB Virtual Microbiome Symposium](https://isbscience.org/microbiome2023/) and at the St. Olaf College Biology Seminar. 
 
