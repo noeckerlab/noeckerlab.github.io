@@ -3,6 +3,20 @@ description: Lab News
 title: Lab News
 ---
 
+**2024-2025:** Too busy to update the lab website! Some of our accomplishments this year:
+
+
+- Cyrille Date and Nitee Rai were awarded research funding from the Undergraduate Research Center. Cyrille was also awarded a Tri Beta grant. Congrats!!
+- Our first M.S. student in Biological Sciences, Maxwell Awuah, began his thesis work in the lab, working on antibiotic resistance and comparative genomics in gut microbes.
+- Nitee Rai presented a poster at the statewide Posters At St. Paul symposium in March.
+- Keyur Karmacharya and Cyrille Date presented their projects at the National Conference for Undergraduate Research in Pittsburgh, PA. 
+- Abrham Eshete got our amplicon sequencing workflow up and running and got our first library sequenced at the U of M. 
+- All 7 undergraduate students in the lab presented at the campus Undergraduate Research Symposium, and graduated 2 weeks later! We are proud of them!!
+- Dr. Natalie Melendez Vazquez visited the lab from the University of Puerto Rico to work with Dr. Noecker on multi-omic microbiome analysis. It was a productive visit! 
+
+<img alt = 'Collage of students at the URS, eating smoothies, graduating' width='65%' src='/images/noeckerLabSpring2025.png'  style='margin:0px 20px 10px 0px' border='1px'/>
+
+
 **Summer 2024 updates:** 
 
 - Our Coy is set up! Lots of happy anaerobic culturing ahead. 

@@ -13,6 +13,7 @@ Our research projects use both computational and experimental tools and approach
 ## Comparative genomics of human and animal gut microbes
 
 <img alt = 'Tree of Eggerthellaceae isolates and hosts' width='320' src='/images/host_tree_mod.png' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
+<img alt = 'E. lenta colonies' width='150' src='/images/ElentaColonies.jpeg' align='left' style='margin:0px 20px 10px 0px' border='1px'/>
 
 How do the resident microbes in your gut differ from their relatives living in the gut of your dog? Or from someone halfway across the world? How did their unique genetic and metabolic capacities evolve? What effects might they have on the physiology and ecology of the gut? We use computational genomics and experimental characterization of new isolates to explore these questions, with a focus on the prevalent and metabolically diverse bacterial family *Eggerthellaceae*.
 

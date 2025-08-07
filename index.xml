@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on The Noecker Lab</title>
-    <link>https://cnoecker.github.io/</link>
+    <link>https://noeckerlab.github.io/</link>
     <description>Recent content in Welcome on The Noecker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://cnoecker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://noeckerlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Cecilia Noecker</title>
-      <link>https://cnoecker.github.io/bio/</link>
+      <link>https://noeckerlab.github.io/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/bio/</guid>
+      <guid>https://noeckerlab.github.io/bio/</guid>
       
         <description>Bio of Dr. Noecker</description>
       
@@ -19,10 +19,10 @@
     
     <item>
       <title>Join the lab!</title>
-      <link>https://cnoecker.github.io/join_the_lab/</link>
+      <link>https://noeckerlab.github.io/join_the_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/join_the_lab/</guid>
+      <guid>https://noeckerlab.github.io/join_the_lab/</guid>
       
         <description>Join the lab</description>
       
@@ -30,10 +30,10 @@
     
     <item>
       <title>Lab Culture and Expectations</title>
-      <link>https://cnoecker.github.io/lab_culture/</link>
+      <link>https://noeckerlab.github.io/lab_culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/lab_culture/</guid>
+      <guid>https://noeckerlab.github.io/lab_culture/</guid>
       
         <description>Lab Culture</description>
       
@@ -41,10 +41,10 @@
     
     <item>
       <title>Lab News</title>
-      <link>https://cnoecker.github.io/lab_news/</link>
+      <link>https://noeckerlab.github.io/lab_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/lab_news/</guid>
+      <guid>https://noeckerlab.github.io/lab_news/</guid>
       
         <description>Lab News</description>
       
@@ -52,10 +52,10 @@
     
     <item>
       <title>People</title>
-      <link>https://cnoecker.github.io/people/</link>
+      <link>https://noeckerlab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/people/</guid>
+      <guid>https://noeckerlab.github.io/people/</guid>
       
         <description>Lab members</description>
       
@@ -63,10 +63,10 @@
     
     <item>
       <title>Publications</title>
-      <link>https://cnoecker.github.io/publications/</link>
+      <link>https://noeckerlab.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/publications/</guid>
+      <guid>https://noeckerlab.github.io/publications/</guid>
       
         <description>Publication list</description>
       
@@ -74,10 +74,10 @@
     
     <item>
       <title>Research</title>
-      <link>https://cnoecker.github.io/research/</link>
+      <link>https://noeckerlab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/research/</guid>
+      <guid>https://noeckerlab.github.io/research/</guid>
       
         <description>Current research projects</description>
       
@@ -85,10 +85,10 @@
     
     <item>
       <title>Resources</title>
-      <link>https://cnoecker.github.io/resources/</link>
+      <link>https://noeckerlab.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/resources/</guid>
+      <guid>https://noeckerlab.github.io/resources/</guid>
       
         <description>Resources</description>
       
@@ -96,10 +96,10 @@
     
     <item>
       <title>Software</title>
-      <link>https://cnoecker.github.io/software/</link>
+      <link>https://noeckerlab.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/software/</guid>
+      <guid>https://noeckerlab.github.io/software/</guid>
       
         <description>Software</description>
       
@@ -107,10 +107,10 @@
     
     <item>
       <title>Teaching and Outreach Materials</title>
-      <link>https://cnoecker.github.io/teaching/</link>
+      <link>https://noeckerlab.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cnoecker.github.io/teaching/</guid>
+      <guid>https://noeckerlab.github.io/teaching/</guid>
       
         <description>Teaching and outreach materials and resources</description>
       
